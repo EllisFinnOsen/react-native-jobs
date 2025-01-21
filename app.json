@@ -1,9 +1,8 @@
 {
   "expo": {
+    "newArchEnabled": true,
     "scheme": "acme",
-    "plugins": [
-      "expo-router"
-    ],
+    "plugins": ["expo-router"],
     "name": "react_native_jobs",
     "slug": "react_native_jobs"
   }

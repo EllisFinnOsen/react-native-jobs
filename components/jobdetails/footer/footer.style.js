@@ -8,6 +8,7 @@ const styles = StyleSheet.create({
     bottom: 0,
     left: 0,
     right: 0,
+    height: 48,
     padding: SIZES.small,
     backgroundColor: "#FFF",
     justifyContent: "space-between",
@@ -31,7 +32,7 @@ const styles = StyleSheet.create({
   applyBtn: {
     flex: 1,
     backgroundColor: "#FE7654",
-    height: "100%",
+    height: "3rem",
     justifyContent: "center",
     alignItems: "center",
     marginLeft: SIZES.medium,
